@@ -1,0 +1,24 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelicaOrtizB/Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelicaOrtizB/Playwright/issues"
+  },
+  "homepage": "https://github.com/AngelicaOrtizB/Playwright#readme",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "~1.63.0"
+  }
+}
